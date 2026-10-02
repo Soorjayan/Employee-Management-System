@@ -1,6 +1,6 @@
-# 🏢 SyntechHub – Employee Management System
+# 🏢 SyntecxHub – Employee Management System
 
-A modern, full-stack **Employee Management System (EMS)** developed as **SyntechHub Project 3**.
+A modern, full-stack **Employee Management System (EMS)** developed as **SyntecxHub Project 3**.
 
 The system provides an administrative platform for managing employees, departments, employee profiles, and administrative settings. It includes a responsive React frontend, RESTful Node.js/Express backend, and MongoDB database integration.
 
